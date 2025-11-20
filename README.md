@@ -12,7 +12,8 @@ Se deben poder hacer requests (peticiones) al servidor, con los metodos GET PUT 
 
 # ENDPOINTS:
 
-- Listar Jugadores: Utilizamos el verbo GET para obtener toda la lista de jugadores.
+- ## Listar Jugadores: 
+ Utilizamos el verbo GET para obtener toda la lista de jugadores.
  Endpoint: GET http://localhost/TP/api/jugadores/
 
 
