@@ -34,7 +34,7 @@ Endpoint: POST http://localhost/TP/api/jugadores/
 - ## Editar Jugador: 
   Utilizaremos el verbo PUT y pondremos la id del jugador a modificar.
 
-  A su vez debemos escribir el body de lo que qure
+  A su vez debemos escribir el body de lo que queremos editar.
  Endpoint: PUT http://localhost/TP/api/jugadores/2.
 
   {
